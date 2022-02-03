@@ -4,7 +4,7 @@ import React, { Fragment, useState } from "react";
 
 const InputRomanValues = () => {
     
-    // const [decimalNumber, setDecimalNumber] = useState("");
+
     const [roman_decimal, setRoman_decimal] = useState("");
 
 
